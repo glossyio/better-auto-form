@@ -1,4 +1,4 @@
-# A Better Abonded Auto Intake Form
+# A Better Abandoned Auto Intake Form
 Goal:  Automate the PBOT [Abandoned Auto intake form](https://www.portland.gov/transportation/parking/abandoned-auto) so it is easier to report cars that fit the "abandoned" definition, including: expired license plate tags, no license plates, inoperable vehicles, and more.
 
 ## Desired Capabilities
